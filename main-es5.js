@@ -278,7 +278,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-root"]],
       decls: 10,
       vars: 0,
-      consts: [["role", "banner", 1, "toolbar"], ["width", "40", "alt", "logo", "src", "assets/notes.svg"], ["target", "_blank", "href", "https://github.com/stanlys", "title", "github"], ["src", "assets/github2.svg", "alt", "github", 1, "github"], ["role", "main", 1, "content"], [1, "nav"], [1, "article"]],
+      consts: [["role", "banner", 1, "toolbar"], ["width", "40", "alt", "logo", "src", "https://stanlys.github.io/EvaTeam/assets/notes.svg"], ["target", "_blank", "href", "https://github.com/stanlys", "title", "github"], ["src", "https://stanlys.github.io/EvaTeam/assets/github2.svg", "alt", "github", 1, "github"], ["role", "main", 1, "content"], [1, "nav"], [1, "article"]],
       template: function AppComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
