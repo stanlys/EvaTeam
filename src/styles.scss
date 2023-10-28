@@ -1,0 +1,26 @@
+$mainColor: #3f51b5;
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a,
+a:visited,
+a:hover {
+  color: $mainColor;
+  text-decoration: none;
+}
+
+a:hover {
+  color: $mainColor;
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
